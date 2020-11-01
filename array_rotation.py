@@ -1,5 +1,4 @@
-# Python3 program to rotate an array by
-# d elements
+# Python3 program to rotate an array by d elements
 # Function to left rotate arr[] of size n by d
 
 def left_rotate_approach_1(arr, d):
